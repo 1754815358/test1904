@@ -6,5 +6,6 @@ public class User {
    private String no;
    private String id;
    private String heiehi;
+   private String heiehi2;
 
 }
